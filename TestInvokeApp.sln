@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestInvokeApp", "TestInvokeApp\TestInvokeApp.csproj", "{6D8E7D75-638F-48BF-98C1-FDA078BE67BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{C279DFFE-BB41-4441-937D-18BD7E24BD19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D8E7D75-638F-48BF-98C1-FDA078BE67BE}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{6D8E7D75-638F-48BF-98C1-FDA078BE67BE}.Debug|iPhone.Build.0 = Debug|iPhone
+		{6D8E7D75-638F-48BF-98C1-FDA078BE67BE}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{6D8E7D75-638F-48BF-98C1-FDA078BE67BE}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{6D8E7D75-638F-48BF-98C1-FDA078BE67BE}.Release|iPhone.ActiveCfg = Release|iPhone
+		{6D8E7D75-638F-48BF-98C1-FDA078BE67BE}.Release|iPhone.Build.0 = Release|iPhone
+		{6D8E7D75-638F-48BF-98C1-FDA078BE67BE}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{6D8E7D75-638F-48BF-98C1-FDA078BE67BE}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{C279DFFE-BB41-4441-937D-18BD7E24BD19}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C279DFFE-BB41-4441-937D-18BD7E24BD19}.Debug|iPhone.Build.0 = Debug|iPhone
+		{C279DFFE-BB41-4441-937D-18BD7E24BD19}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C279DFFE-BB41-4441-937D-18BD7E24BD19}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C279DFFE-BB41-4441-937D-18BD7E24BD19}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C279DFFE-BB41-4441-937D-18BD7E24BD19}.Release|iPhone.Build.0 = Release|iPhone
+		{C279DFFE-BB41-4441-937D-18BD7E24BD19}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C279DFFE-BB41-4441-937D-18BD7E24BD19}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
